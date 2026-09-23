@@ -1476,11 +1476,7 @@ summary:focus-visible {
   padding: 58px 0 28px;
 }
 
-.brand-footer .brand-mark {
-  width: 40px;
-  height: 40px;
-  border-radius: 11px;
-}
+
 
 .brand-footer .brand-text strong {
   color: var(--ink);
