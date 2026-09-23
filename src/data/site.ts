@@ -122,21 +122,21 @@ export const testimonials: {
   profile?: string;
 }[] = [
     {
-      name: "Paciente 1",
+      name: "Pamela Pereira",
       city: "Ivoti/RS",
-      text: "[Avaliação 1 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
+      text: "Excelente profissional, atenção e cuidado aos detalhes, explica e exemplifica todos os processos. Uma querida, recomendo demais.",
       profile: site.googleProfile,
     },
     {
-      name: "Paciente 2",
+      name: "Raul Schmidt Turcati",
       city: "Ivoti/RS",
-      text: "[Avaliação 2 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
+      text: "Excelente profissional !",
       profile: site.googleProfile,
     },
     {
-      name: "Paciente 3",
+      name: "Sandro Maurer",
       city: "Ivoti/RS",
-      text: "[Avaliação 3 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
+      text: "Atendimento excelente!",
       profile: site.googleProfile,
     }
   ];
