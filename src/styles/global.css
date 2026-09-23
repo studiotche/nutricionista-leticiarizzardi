@@ -27,14 +27,14 @@
 :root {
   --ink: #171510;
   --muted: #58544d;
-  --cream: #e0cfba;
+  --cream: #C7C170;
   --paper: #ededed;
   --sage: #7a8b7c;
-  --sage-dark: #515d53;
+  --sage-dark: #727560;
   --sage-tint: #d0d8d1;
   --terracotta: #563e32;
-  --terracotta-deep: #515d53;
-  --terracotta-light: #e0cfba;
+  --terracotta-deep: #727560;
+  --terracotta-light: #C7C170;
   --gold: #d8c08a;
   --line: rgba(23, 21, 16, 0.15);
   --white: #ffffff;
@@ -1744,7 +1744,7 @@ body.menu-open {
   width: min(86vw, 380px);
   display: flex;
   flex-direction: column;
-  background: var(--paper);
+  background: #C9DBBA;
   box-shadow: -24px 0 60px rgba(23, 21, 16, .25);
   padding: 24px 30px 34px;
   transform: translateX(100%);
