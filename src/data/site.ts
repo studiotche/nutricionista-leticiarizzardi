@@ -1,18 +1,18 @@
 export const site = {
-  name: "Alexandra Petry",
-  role: "Nutricionista Clínica e Esportiva",
-  fullRole: "Nutricionista Clínica e Esportiva",
-  city: "Novo Hamburgo",
+  name: "Letícia Rizzardi",
+  role: "Nutricionista",
+  fullRole: "Nutricionista",
+  city: "Ivoti",
   state: "RS",
-  region: "Novo Hamburgo/RS",
-  crn: "",
+  region: "Ivoti/RS",
+  crn: "18700D",
   credentials:
-    "Nutricionista especializada em Avaliação Metabólica e Nutricional",
-  phoneDisplay: "(51) 8408-8326",
-  phoneLink: "555184088326",
-  telLink: "tel:+555184088326",
+    "Nutricionista",
+  phoneDisplay: "(51) 99999-9999",
+  phoneLink: "5551999999999",
+  telLink: "tel:+5551999999999",
   email: "",
-  instagram: "https://www.instagram.com/nutricionistaalexandrapetry/",
+  instagram: "https://www.instagram.com/nutrileticiarizzardi/",
   hours: [
     {
       days: "Atendimento particular",
@@ -20,35 +20,35 @@ export const site = {
     },
   ],
   googleProfile:
-    "https://www.google.com/maps/place/Alexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo/@-29.6912225,-51.1272169,979m/data=!3m1!1e3!4m15!1m8!3m7!1s0x95194313e3d54ef7:0xaf9a49855b655981!2sAlexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo!8m2!3d-29.6910819!4d-51.1272354!10e5!16s%2Fg%2F11qr9fkwj9!3m5!1s0x95194313e3d54ef7:0xaf9a49855b655981!8m2!3d-29.6910819!4d-51.1272354!16s%2Fg%2F11qr9fkwj9?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nutricionista+Let%C3%ADcia+Rizzardi/@-29.5978632,-51.1546955,980m/data=!3m2!1e3!4b1!4m6!3m5!1s0x9519450667614127:0x28e21815b37a7c46!8m2!3d-29.5978632!4d-51.1546955!16s%2Fg%2F11vdqgj328?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D",
   googleRating: {
     score: "5,0",
-    reviews: 40,
+    reviews: 4,
   },
   mapsEmbedUrl:
-    "https://maps.google.com/maps?q=-29.6910819,-51.1272354&z=17&hl=pt-BR&output=embed",
+    "https://maps.google.com/maps?q=-29.5978632,-51.1546955&z=17&hl=pt-BR&output=embed",
   mapsUrl:
-    "https://www.google.com/maps/place/Alexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo/@-29.6912225,-51.1272169,979m/data=!3m1!1e3!4m15!1m8!3m7!1s0x95194313e3d54ef7:0xaf9a49855b655981!2sAlexandra+D.+Petry+I+Nutricionista+Cl%C3%ADnica+e+Esportiva+em+Novo+Hamburgo!8m2!3d-29.6910819!4d-51.1272354!10e5!16s%2Fg%2F11qr9fkwj9!3m5!1s0x95194313e3d54ef7:0xaf9a49855b655981!8m2!3d-29.6910819!4d-51.1272354!16s%2Fg%2F11qr9fkwj9?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "https://www.google.com/maps/place/Nutricionista+Let%C3%ADcia+Rizzardi/@-29.5978632,-51.1546955,980m/data=!3m2!1e3!4b1!4m6!3m5!1s0x9519450667614127:0x28e21815b37a7c46!8m2!3d-29.5978632!4d-51.1546955!16s%2Fg%2F11vdqgj328?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D",
   seo: {
     title:
-      "Nutricionista Clínica e Esportiva em Novo Hamburgo - Alexandra Petry",
+      "Nutricionista em Ivoti - Letícia Rizzardi",
     description:
-      "Alexandra Petry, nutricionista clínica e esportiva em Novo Hamburgo/RS. Atendimento para quem busca resultados consistentes em saúde, emagrecimento ou performance.",
-    url: "https://nutrialexandrapetry.my.canva.site/",
-    ogImage: "/assets/images/nutricionista-alexandrapetry-hero.webp",
+      "Letícia Rizzardi, nutricionista em Ivoti/RS. Te ajudo a melhorar a sua relação com a alimentação de uma forma leve!",
+    url: "https://nutrileticiarizzardi.my.canva.site/",
+    ogImage: "/assets/images/nutricionista-leticiarizzardi-hero.webp",
   },
   hero: {
     eyebrow: "Nutrição Clínica e Esportiva",
     title:
-      "Nutricionista Clínica e Esportiva em Novo Hamburgo",
-    titleHighlight: "Alexandra Petry",
+      "Nutricionista em Ivoti",
+    titleHighlight: "Letícia Rizzardi",
     tagline:
-      "Atendimento para quem busca resultados consistentes <br/> em saúde, emagrecimento ou performance",
+      "Te ajudo a melhorar a sua relação com a alimentação de uma forma leve!",
     description:
-      "Atendimento para quem busca resultados consistentes em saúde, emagrecimento ou performance. Consultas presenciais em Novo Hamburgo e Online.",
+      "Te ajudo a melhorar a sua relação com a alimentação de uma forma leve! Consultas presenciais em Ivoti e Online.",
   },
   about: {
-    eyebrow: "Muito prazer, sou a Alexandra Petry!",
+    eyebrow: "Muito prazer, sou a Letícia Rizzardi!",
     title:
       "Resultados de forma sustentável e alinhada à realidade de cada paciente",
     titleHighlight: "sustentável e alinhada",
@@ -59,13 +59,13 @@ export const site = {
     ],
   },
   assets: {
-    logo: "/assets/images/logo-nutricionista-alexandra-petry.webp",
-    hero: "/assets/images/nutricionista-alexandra-petry-hero.webp",
-    heroMobile: "/assets/images/nutricionista-alexandrapetry-hero.webp",
-    about: "/assets/images/sobre-nutricionista-alexandrapetry.webp",
+    logo: "/assets/images/logo-nutricionista-leticia-rizzardi.webp",
+    hero: "/assets/images/nutricionista-leticia-rizzardi-hero.webp",
+    heroMobile: "/assets/images/nutricionista-leticiarizzardi-hero.webp",
+    about: "/assets/images/sobre-nutricionista-leticiarizzardi.webp",
     processBg: "/assets/images/nutricionista-fundo-sessao-agende.webp",
-    consultorio: "/assets/images/consultorio-alexandrapetry.webp",
-    consultorioFachada: "/assets/images/recepcao-alexandrapetry.webp",
+    consultorio: "/assets/images/consultorio-leticiarizzardi.webp",
+    consultorioFachada: "/assets/images/recepcao-leticiarizzardi.webp",
   },
 } as const;
 
@@ -122,49 +122,31 @@ export const testimonials: {
   profile?: string;
 }[] = [
     {
-      name: "Mateus Costa",
-      city: "Novo Hamburgo/RS",
-      text: "Excelente nutri!! Recomendo para todos! Ela monta o plano alimentar conforme você gosta dos alimentos e também ajustar as refeições de acordo com sua rotina. Minha saúde intestinal mudou completamente depois que passei a ter o acompanhamento nutricional.",
+      name: "Paciente 1",
+      city: "Ivoti/RS",
+      text: "[Avaliação 1 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
       profile: site.googleProfile,
     },
     {
-      name: "Adriana Arantes",
-      city: "Novo Hamburgo/RS",
-      text: "Estou fazendo o tratamento com a nutricionista Alexandra D Petry desde agosto de 2025, eliminei 18k , e não passei fome! Plano alimentar dentro da realidade! Recomendo muito!!",
+      name: "Paciente 2",
+      city: "Ivoti/RS",
+      text: "[Avaliação 2 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
       profile: site.googleProfile,
     },
     {
-      name: "Cristian Worc",
-      city: "Novo Hamburgo/RS",
-      text: "A Dra. Alexandra é uma profissional extremamente atenciosa e dedicada. Seu atendimento é excelente, sempre ouvindo com cuidado e criando planos personalizados que realmente atendem às necessidades do paciente. Graças ao trabalho dela, minha mãe conseguiu — e continua conseguindo — evoluir de forma magnífica. Recomendo fortemente o trabalho da Dra. Alexandra pela sua competência, empatia e comprometimento com os resultados.",
-      profile: site.googleProfile,
-    },
-    {
-      name: "Juliana Oliveira",
-      city: "Novo Hamburgo/RS",
-      text: "Excelente profissional! Me ajudou a alcançar meus objetivos sem frescuras! O básico que funciona!",
-      profile: site.googleProfile,
-    },
-    {
-      name: "Natalia V",
-      city: "Novo Hamburgo/RS",
-      text: "Alexandra é uma nutricionista maravilhosa! Depois de ter várias experiências com 5 nutricionistas diferentes, ela foi a única que realmente adaptou a dieta 100% à minha rotina. Ela me passou um plano muito prático e realista. Depois de um mês já comecei ver os resultados no emagrecimento. Recomendo muito ela!",
-      profile: site.googleProfile,
-    },
-    {
-      name: "Ana Carolina de Souza Rauter",
-      city: "Novo Hamburgo/RS",
-      text: "Alexandra é uma profissional impecável! Sua prescrição é prazerosa e prática! Ela fez uma análise de toda minha rotina e me ajudou a organizar o plano alimentar nele (desde quais alimentos e quando prepará-los). Tbm é muito atenciosa com os pacientes nos intervalos entre as consultas, dando suporte e buscando ajudar. Adorei tê-la encontrado!",
+      name: "Paciente 3",
+      city: "Ivoti/RS",
+      text: "[Avaliação 3 do Google Maps a ser inserida. Por favor, atualize com o texto real.]",
       profile: site.googleProfile,
     }
   ];
 
 export const locations = [
   {
-    city: "Novo Hamburgo",
-    address: "R. Joaquim Nabuco, 1044",
+    city: "Ivoti",
+    address: "[Endereço a ser inserido]",
     district:
-      "Centro · Novo Hamburgo/RS · CEP 93310-002",
+      "Ivoti/RS",
     type: "Presencial · Online · Particular",
   },
 ] as const;
@@ -172,7 +154,7 @@ export const locations = [
 export const faqs = [
   [
     "Onde acontecem as consultas presenciais?",
-    "Os atendimentos presenciais acontecem em Novo Hamburgo/RS. Entre em contato para mais detalhes sobre o endereço.",
+    "Os atendimentos presenciais acontecem em Ivoti/RS. Entre em contato para mais detalhes sobre o endereço.",
   ],
   [
     "Você também realiza atendimentos online?",
@@ -196,4 +178,4 @@ export const faqs = [
   ]
 ] as const;
 
-export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Alexandra! Gostaria de agendar uma consulta.")}`;
+export const whatsappUrl = `https://wa.me/${site.phoneLink}?text=${encodeURIComponent("Olá, Letícia! Gostaria de agendar uma consulta.")}`;
