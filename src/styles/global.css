@@ -1471,8 +1471,8 @@ summary:focus-visible {
 }
 
 .site-footer {
-  background: var(--sage-dark);
-  color: var(--white);
+  background: var(--cream);
+  color: var(--ink);
   padding: 58px 0 28px;
 }
 
@@ -1483,12 +1483,12 @@ summary:focus-visible {
 }
 
 .brand-footer .brand-text strong {
-  color: var(--white);
+  color: var(--ink);
   font-size: 1.2rem;
 }
 
 .brand-footer .brand-text small {
-  color: rgba(255, 255, 255, 0.72);
+  color: rgba(23, 21, 16, 0.72);
 }
 
 .footer-main {
@@ -1502,7 +1502,7 @@ summary:focus-visible {
 .footer-main p {
   max-width: 240px;
   margin: 0;
-  color: rgba(255, 255, 255, .9);
+  color: rgba(23, 21, 16, .9);
 }
 
 .footer-brand {
@@ -1514,7 +1514,7 @@ summary:focus-visible {
 
 .footer-column-title {
   margin: 0 0 14px;
-  color: var(--white);
+  color: var(--ink);
   font-size: .8rem;
   font-weight: 600;
   letter-spacing: .08em;
@@ -1527,7 +1527,7 @@ summary:focus-visible {
   justify-content: center;
   flex-wrap: wrap;
   gap: 8px clamp(16px, 2vw, 30px);
-  color: var(--white);
+  color: var(--ink);
   font-size: .85rem;
   font-weight: 400;
 }
@@ -1551,7 +1551,7 @@ summary:focus-visible {
   bottom: 2px;
   width: 0;
   height: 1px;
-  background: var(--white);
+  background: var(--ink);
   transition: width .3s cubic-bezier(.22, .61, .36, 1);
 }
 
@@ -1568,13 +1568,13 @@ summary:focus-visible {
 .footer-address {
   max-width: 240px;
   margin: 0 0 14px;
-  color: rgba(255, 255, 255, .9);
+  color: rgba(23, 21, 16, .9);
   font-size: .85rem;
   line-height: 1.5;
 }
 
 .footer-address strong {
-  color: var(--white);
+  color: var(--ink);
 }
 
 .footer-hours {
@@ -1582,7 +1582,7 @@ summary:focus-visible {
   flex-direction: column;
   gap: 2px;
   margin-top: 14px;
-  color: rgba(255, 255, 255, .9);
+  color: rgba(23, 21, 16, .9);
   font-size: .8rem;
 }
 
@@ -1604,24 +1604,24 @@ summary:focus-visible {
   display: grid;
   place-items: center;
   padding: 0;
-  border: 1px solid rgba(255, 255, 255, .24);
+  border: 1px solid rgba(23, 21, 16, .24);
   border-radius: 50%;
-  color: var(--white);
+  color: var(--ink);
   transition: background .28s ease, border-color .28s ease, color .28s ease, transform .28s ease;
 }
 
 .social-links a:hover,
 .social-links a:focus-visible {
-  background: rgba(255, 255, 255, .14);
-  border-color: rgba(255, 255, 255, .7);
-  color: var(--white);
+  background: rgba(23, 21, 16, .14);
+  border-color: rgba(23, 21, 16, .7);
+  color: var(--ink);
   transform: translateY(-2px);
 }
 
 .social-links .social-whatsapp {
-  background: rgba(255, 255, 255, .14);
-  border-color: rgba(255, 255, 255, .35);
-  color: var(--white);
+  background: rgba(23, 21, 16, .14);
+  border-color: rgba(23, 21, 16, .35);
+  color: var(--ink);
 }
 
 .social-links svg {
@@ -1646,12 +1646,12 @@ summary:focus-visible {
 }
 
 .footer-links>a {
-  color: rgba(255, 255, 255, .65);
+  color: rgba(23, 21, 16, .65);
   transition: color .28s ease, padding-left .3s cubic-bezier(.22, .61, .36, 1);
 }
 
 .footer-links>a:hover {
-  color: var(--white);
+  color: var(--ink);
   padding-left: 4px;
 }
 
@@ -1661,8 +1661,8 @@ summary:focus-visible {
   align-items: center;
   gap: 30px;
   padding-top: 24px;
-  border-top: 1px solid rgba(255, 255, 255, .12);
-  color: rgba(255, 255, 255, .9);
+  border-top: 1px solid rgba(23, 21, 16, .12);
+  color: rgba(23, 21, 16, .9);
   font-size: .75rem;
 }
 
@@ -1673,12 +1673,12 @@ summary:focus-visible {
 }
 
 .footer-legal a {
-  color: rgba(255, 255, 255, .9);
+  color: rgba(23, 21, 16, .9);
   transition: color .28s ease;
 }
 
 .footer-legal a:hover {
-  color: var(--white);
+  color: var(--ink);
 }
 
 .footer-credit {
