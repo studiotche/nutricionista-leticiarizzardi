@@ -40,12 +40,12 @@ export const site = {
   hero: {
     eyebrow: "Nutrição Clínica e Esportiva",
     title:
-      "Nutricionista em Ivoti",
+      "Nutricionista clínica\ne esportiva em Ivoti,\nLetícia Rizzardi",
     titleHighlight: "Letícia Rizzardi",
     tagline:
       "Te ajudo a melhorar a sua relação com a alimentação de uma forma leve!",
     description:
-      "Te ajudo a melhorar a sua relação com a alimentação de uma forma leve! Consultas presenciais em Ivoti e Online.",
+      "Te ajudo a melhorar a sua relação\ncom a alimentação de uma forma leve!\nConsultas presenciais em Ivoti e Online.",
   },
   about: {
     eyebrow: "Muito prazer, sou a Letícia Rizzardi!",
