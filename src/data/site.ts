@@ -8,15 +8,15 @@ export const site = {
   crn: "18700D",
   credentials:
     "Nutricionista",
-  phoneDisplay: "(51) 99999-9999",
-  phoneLink: "5551999999999",
-  telLink: "tel:+5551999999999",
+  phoneDisplay: "(51) 99782-3389",
+  phoneLink: "5551997823389",
+  telLink: "tel:+5551997823389",
   email: "",
   instagram: "https://www.instagram.com/nutrileticiarizzardi/",
   hours: [
     {
       days: "Atendimento particular",
-      time: "Presencial e Online · Consultar horários no WhatsApp",
+      time: "Segunda a Sexta, até as 18:00",
     },
   ],
   googleProfile:
@@ -144,9 +144,9 @@ export const testimonials: {
 export const locations = [
   {
     city: "Ivoti",
-    address: "[Endereço a ser inserido]",
+    address: "R. João Reinaldo Frohlich, 231 - Jardim do Alto, Ivoti - RS, 93900-000",
     district:
-      "Ivoti/RS",
+      "Jardim do Alto",
     type: "Presencial · Online · Particular",
   },
 ] as const;
